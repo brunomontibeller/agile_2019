@@ -1,0 +1,46 @@
+---
+title: "Agile_notes"
+author: "Bruno Montibeller"
+date: "11/28/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Visualization
+
+For visualizing my research results I will use temporal animations to show spatial-temporal changes of the forest loss areas from southern parts of Amazon region to central-northern areas. These animations will be mainly used to publicizing the research.
+Standard maps will also be use in order to illustrate the results in scientific papers.
+
+
+## Reproducibility
+
+My research will use mainly open source data as well as processing tools. 
+
+The forest data that we will use is open-access and it is available at https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.5.html. The dataset is licensed under a Creative Commons Attribution 4.0 International License. 
+Reference
+Hansen, M. C., P. V. Potapov, R. Moore, M. Hancher, S. A. Turubanova, A. Tyukavina, D. Thau, S. V. Stehman, S. J. Goetz, T. R. Loveland, A. Kommareddy, A. Egorov, L. Chini, C. O. Justice, and J. R. G. Townshend. 2013. “High-Resolution Global Maps of 21st-Century Forest Cover Change.” Science 342 (15 November): 850–53. Data available on-line from: http://earthenginepartners.appspot.com/science-2013-global-forest 
+
+Scripts and software: Scripts that will be used for data processing will be fully available at a repository on github (https://github.com/brunomontibeller/agile_2019) under the license XXXX. All the parameters as well as all the libraries used (and that are freely available) will be also accessible in the same github repository. The list of open sources software and the tools used will also be documented in detail in the github repository. 
+
+Data: The data processed and created in the research will be available upon request to the first author of the paper. 
+
+
+
+
+## Science communication
+
+Readers: 
+Researches: Eugenio Arima, Peter Richards, Michelle Kalamandeen and Isabel M. D. Rosa
+Institutions: Forest management agencies, inspecting agencies etc. 
+What did you do?
+We evaluate the forest dynamics (forest loss and forest fragmentation) in the Brazilian Legal Amazon using landscape metrics, hotspot and temporal trend analysis. For the analysis we used annual forest loss and forest cove data from 2000 to 2017. The dataset were developed by Hansen et al (2013) and are available at https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.5.html. 
+Why did you do it? 
+We identified a lack of spatial analysis that combined forest loss and forest cover in the Brazilian Legal Amazon. Most of the studies have only focused on the changes of the forest loss process overtime, excluding the effect of these changes in the fragmentation of the remaining forest cover. 
+What happened?
+We found that even though the forest loss decreased overtime, the forest cover fragmentation increased. The hypothesis is that the spatial change of the forest loss process to inner areas with forest cover in the amazon is the main reason for the increase in the fragmentation.
+What do the results mean in theory? 
+They mean that the current anti-deforestation initiatives are not robust to face the new pattern of forest dynamics in the amazon region. Additionally, the spatial change of forest loss to the western areas can increase GHG emission once these areas present more carbon stock as biomass. 
+
