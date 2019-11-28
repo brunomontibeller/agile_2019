@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 For visualizing my research results I will use temporal animations to show spatial-temporal changes of the forest loss areas from southern parts of Amazon region to central-northern areas. These animations will be mainly used to publicizing the research.
 Standard maps will also be use in order to illustrate the results in scientific papers.
 
-("D:/fl_trend/agile_phd_school_note/studyarea.png")
+![Study area](studyarea.png)
 
 ## Reproducibility
 
